@@ -1,0 +1,11 @@
+UPR Maker.
+Copyright Patrick Premartin 12/30/1991.
+
+* ALL2UPR 1.0 (12/30/1991)
+     You have many files you want to print, but they are not on ASCII. This
+     program generate UPR files, that are ASCII files. You can print them and
+     type them to have the non ASCII original files.
+
+* UPR2ALL 1.0 (12/30/1991)
+     You have UPR files, you want to compile them, you must use this program.
+     It makes original files with UPR files.
